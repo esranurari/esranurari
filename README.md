@@ -1,6 +1,10 @@
 # Hello! 👋
 
-I am Esra, a full stack automation tester in training, currently based in Slovenia. I have experience with programming languages such as MySQL and Dev C++. I am currently continuing my education in Java.
+I am Esra, a full stack automation tester in training.I am currently advancing my skills through a comprehensive bootcamp program. My technical expertise includes Java, PostgreSQL, JDBC, HTML, CSS, Selenium, and Appium.
+
+I am passionate about developing robust and scalable applications while continuously learning and adapting to new technologies. Here, you will find a collection of my projects and code samples that reflect my journey and growth in the tech world.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas
 
 ## My Interests
 - 🌱 I’m currently learning full stack automation testing and Java.
