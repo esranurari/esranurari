@@ -1,13 +1,11 @@
 # Hello! 👋
 
-I am Esra, a full stack automation tester in training.I am currently advancing my skills through a comprehensive bootcamp program. My technical expertise includes Java, PostgreSQL, JDBC, HTML, CSS, Selenium, and Appium.
+I am Esra.I have experience in quality management and testing processes as both a manual and automation tester across various projects during my bootcamp. In these projects, I utilized Java as the primary programming language, alongside Selenium and Postman for testing, with Jira/Xray for bug tracking, and GitHub as the code repository. I am familiar with working in Agile Scrum methodology. Additionally, I worked with PostgreSQL for database management and also utilized Postman for API testing, including request validation, response verification, and performance assessment.
 
-I am passionate about developing robust and scalable applications while continuously learning and adapting to new technologies. Here, you will find a collection of my projects and code samples that reflect my journey and growth in the tech world.
+I hold a Bachelor's degree in Civil Engineering and am currently pursuing a Bachelor's degree in Management Information Systems. As a software test engineer, I am proactive and a strong team player. My engineering background has also made me an analytical thinker. I am open to new challenges in my professional career.
+I am passionate about developing robust and scalable applications while continuously learning and adapting to new technologies. 
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas
 
-## My Interests
-- 🌱 I’m currently learning full stack automation testing and Java.
 - 👯 I’m looking to collaborate on open source projects and testing frameworks.
 - 📫 How to reach me: esrayazar12@gmail.com
   
