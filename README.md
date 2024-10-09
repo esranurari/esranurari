@@ -10,3 +10,5 @@ Feel free to explore my repositories and reach out if you have any questions or 
 - 🌱 I’m currently learning full stack automation testing and Java.
 - 👯 I’m looking to collaborate on open source projects and testing frameworks.
 - 📫 How to reach me: esrayazar12@gmail.com
+- ![GitHub Badge](https://github.com/esranurari/resimler/badge.png)
+
