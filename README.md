@@ -1,5 +1,7 @@
 # Hello! 👋
 
+ISTQB® Certified Software Development Engineer in Test
+
 I am Esra.I have experience in quality management and testing processes as both a manual and automation tester across various projects during my bootcamp. In these projects, I utilized Java as the primary programming language, alongside Selenium and Postman for testing, with Jira/Xray for bug tracking, and GitHub as the code repository. I am familiar with working in Agile Scrum methodology. Additionally, I worked with PostgreSQL for database management and also utilized Postman for API testing, including request validation, response verification, and performance assessment.
 
 I hold a Bachelor's degree in Civil Engineering and am currently pursuing a Bachelor's degree in Management Information Systems. As a software test engineer, I am proactive and a strong team player. My engineering background has also made me an analytical thinker. I am open to new challenges in my professional career.
