@@ -8,7 +8,6 @@ I hold a Bachelor's degree in Civil Engineering and am currently pursuing a Bach
 I am passionate about developing robust and scalable applications while continuously learning and adapting to new technologies. 
 
 
-- 👯 I’m looking to collaborate on open source projects and testing frameworks.
 - 📫 How to reach me: esrayazar12@gmail.com
 
   
