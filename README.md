@@ -10,7 +10,8 @@ I am passionate about developing robust and scalable applications while continuo
 
 - 👯 I’m looking to collaborate on open source projects and testing frameworks.
 - 📫 How to reach me: esrayazar12@gmail.com
-  
+
+  💻 Tech Stack:
 - ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white) [![JAVA](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=openjdk&logoColor=white&link=https://www.oracle.com/java/technologies/downloads/)](https://www.oracle.com/java/technologies/downloads/)  [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-web-services&logoColor=white&link=https://aws.amazon.com/)](https://aws.amazon.com/)  ![GitHub Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![GitHub Badge](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)  ![GitHub Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)  ![GitHub Badge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![GitHub Badge](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)  ![GitHub Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
